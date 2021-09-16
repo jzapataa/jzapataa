@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1>Hi!, Soy Jorge Zapata</h1>
+<!--<h1>Hi!, Soy Jorge Zapata</h1>
 
 <h3>Actualmente estoy atrapado en una consultora...</h3> <span>Pero aspiro a ser mi propio jefe, con mis propios proyectos y mis ideas, en definitiva me gustaría ser una persona Freelance.</span>
 
@@ -24,3 +24,4 @@ Ahora mismo diría que se un poco tanto de Backend como de Frontend ¿Podría co
 <li>Angular</li>
 <li>PL/SQL</lI>
 <ul>
+-->
