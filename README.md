@@ -25,7 +25,7 @@ Hay personas que a las que les gusta más el frontend, a otras el backend, y a m
 <li>Spring Boot</li>
 <li>NodeJS</li>
 <li>PL/SQL</lI>
-<li>mySQL</lI>
+<li>MySQL</lI>
 <li>NoSQL</lI>
 </ul>
  
