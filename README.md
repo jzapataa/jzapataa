@@ -23,10 +23,8 @@ Hay personas que a las que les gusta más el frontend, a otras el backend, y a m
 <ul>
 <li>Java</li>
 <li>Spring Boot</li>
-<li>NodeJS</li>
 <li>PL/SQL</lI>
 <li>MySQL</lI>
-<li>NoSQL</lI>
 </ul>
  
 <h4>Stack de Frontend</h4>
